@@ -14,8 +14,9 @@
 }
 
 .resolvetext{
+  font-size: 30px;
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 
 .centerpadding{
@@ -31,6 +32,18 @@
 .productheader{
   margin-top: 60px;
   margin-bottom: 30px;
+}
+
+.producttext{
+  margin-top: 40px;
+  font-size: 18px;
+}
+
+.productlinkcontainer{
+  margin-top: 20px;
+}
+.productlink{
+  font-size: 18px;
 }
 
 .transformationmastery{
