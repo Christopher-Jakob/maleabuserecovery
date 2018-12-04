@@ -1,0 +1,44 @@
+.abusedimage{
+  background-image: url("src/assets/abused.jpg");
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.premisetext{
+  margin-top: 60px;
+  letter-spacing: 1.2px;
+  font-size: 20px;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+
+.resolvetext{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.centerpadding{
+  padding-top: 150px;
+  padding-right: 10vw;
+}
+
+.bottompadding{
+  padding-top: 400px;
+  padding-right: 10vw;
+}
+
+.productheader{
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.transformationmastery{
+  background-image: url("src/assets/transformationmastery.png");
+  height: 30vh;
+  background-size: cover;
+}
+
+*{
+  font-family: 'Playfair Display', serif;
+}
